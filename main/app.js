@@ -109,6 +109,5 @@ app.post('/food-items', async (req, res) => {
     }
 })
 
-})
 
 module.exports = app
